@@ -1,7 +1,3 @@
-Sure, here's a README focused on the features and techniques used in the Todo app:
-
----
-
 # Todo App
 
 This is a simple and responsive Todo application built with React. It allows users to add, toggle, and delete todo items. The application also persists data using `localStorage` to ensure todos are saved even after the browser is refreshed.
